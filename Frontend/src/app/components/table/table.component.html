@@ -1,0 +1,42 @@
+<table class="table table-dark table-striped">
+    <thead>
+      <tr>
+        <th scope="col">Frecuencia</th>
+        <th scope="col" colspan="2">Sitio A</th>
+        <th scope="col" colspan="2">Sitio B</th>
+        <th scope="col" colspan="2">Sitio C</th>
+        <th scope="col">Frecuencia</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th></th>
+        <td>Primer Servicio en destino</td>
+        <td>Primer servicio en origen</td>
+        <td>Primer Servicio en destino</td>
+        <td>Primer servicio en origen</td>
+        <td>Primer Servicio en destino</td>
+        <td>Primer servicio en origen</td>
+        <td></td>
+      </tr>    
+      <tr *ngFor="let dato of datos">
+        <th>{{ dato.frecuencia }}</th>
+        <td *ngIf="!dato.destino"></td>
+        <td *ngIf="dato.destino && dato.destino[0]">{{ dato.destino[0].id_servicio }}</td>
+        <td *ngIf="dato.destino && !dato.destino[0]"></td>
+        <td *ngIf="dato.origen && dato.origen[0]">{{ dato.origen[0].id_servicio }}</td>
+        <td *ngIf="dato.origen && !dato.origen[0]"></td>
+        <td *ngIf="!dato.destino"></td>
+        <td *ngIf="dato.destino && dato.destino[1]">{{ dato.destino[1].id_servicio }}</td>
+        <td *ngIf="dato.destino && !dato.destino[1]"></td>
+        <td *ngIf="dato.origen && dato.origen[1]">{{ dato.origen[1].id_servicio }}</td>
+        <td *ngIf="dato.origen && !dato.origen[1]"></td>
+        <td *ngIf="!dato.destino"></td>
+        <td *ngIf="dato.destino && dato.destino[2]">{{ dato.destino[2].id_servicio }}</td>
+        <td *ngIf="dato.destino && !dato.destino[2]"></td>
+        <td *ngIf="dato.origen && dato.origen[2]">{{ dato.origen[2].id_servicio }}</td>
+        <td *ngIf="dato.origen && !dato.origen[2]"></td>
+      <th>{{ dato.frecuencia }}</th>
+      </tr>   
+    </tbody>
+  </table>

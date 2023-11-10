@@ -1,0 +1,3170 @@
+[
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 1,
+		"frecuencia" : "192,1",
+		"id_servicio" : "UNO-39",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 1,
+		"frecuencia" : "192,1",
+		"id_servicio" : "UNO-39",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 1,
+		"frecuencia" : "192,1",
+		"id_servicio" : "UNO-39",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 1,
+		"frecuencia" : "192,1",
+		"id_servicio" : "UNO-39",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 1,
+		"frecuencia" : "192,1",
+		"id_servicio" : "UNO-368",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 1,
+		"frecuencia" : "192,1",
+		"id_servicio" : "UNO-373",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 1,
+		"frecuencia" : "192,1",
+		"id_servicio" : "UNO-1556",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 1,
+		"frecuencia" : "192,1",
+		"id_servicio" : "UNO-1556",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 1,
+		"frecuencia" : "192,1",
+		"id_servicio" : "UNO-1556",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 1,
+		"frecuencia" : "192,1",
+		"id_servicio" : "UNO-2755",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 7,
+		"frecuencia" : "192,4",
+		"id_servicio" : "UNO-221",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 7,
+		"frecuencia" : "192,4",
+		"id_servicio" : "UNO-426",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 7,
+		"frecuencia" : "192,4",
+		"id_servicio" : "UNO-1004",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 25,
+		"frecuencia" : "193,3",
+		"id_servicio" : "UNO-135",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 27,
+		"frecuencia" : "193,4",
+		"id_servicio" : "UNO-538",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 27,
+		"frecuencia" : "193,4",
+		"id_servicio" : "UNO-538",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 27,
+		"frecuencia" : "193,4",
+		"id_servicio" : "UNO-672",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 27,
+		"frecuencia" : "193,4",
+		"id_servicio" : "UNO-672",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 27,
+		"frecuencia" : "193,4",
+		"id_servicio" : "UNO-673",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 27,
+		"frecuencia" : "193,4",
+		"id_servicio" : "UNO-673",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 27,
+		"frecuencia" : "193,4",
+		"id_servicio" : "UNO-1019",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 31,
+		"frecuencia" : "193,6",
+		"id_servicio" : "UNO-134",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 31,
+		"frecuencia" : "193,6",
+		"id_servicio" : "UNO-758",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 31,
+		"frecuencia" : "193,6",
+		"id_servicio" : "UNO-758",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 31,
+		"frecuencia" : "193,6",
+		"id_servicio" : "UNO-838",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 31,
+		"frecuencia" : "193,6",
+		"id_servicio" : "UNO-838",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 31,
+		"frecuencia" : "193,6",
+		"id_servicio" : "UNO-839",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 31,
+		"frecuencia" : "193,6",
+		"id_servicio" : "UNO-839",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 31,
+		"frecuencia" : "193,6",
+		"id_servicio" : "UNO-840",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 31,
+		"frecuencia" : "193,6",
+		"id_servicio" : "UNO-840",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 31,
+		"frecuencia" : "193,6",
+		"id_servicio" : "UNO-1220",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 31,
+		"frecuencia" : "193,6",
+		"id_servicio" : "UNO-1221",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 31,
+		"frecuencia" : "193,6",
+		"id_servicio" : "UNO-1222",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 33,
+		"frecuencia" : "193,7",
+		"id_servicio" : "UNO-2836",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 35,
+		"frecuencia" : "193,8",
+		"id_servicio" : "UNO-40",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 35,
+		"frecuencia" : "193,8",
+		"id_servicio" : "UNO-185",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 35,
+		"frecuencia" : "193,8",
+		"id_servicio" : "UNO-2037",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 35,
+		"frecuencia" : "193,8",
+		"id_servicio" : "UNO-2038",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 35,
+		"frecuencia" : "193,8",
+		"id_servicio" : "UNO-2039",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 35,
+		"frecuencia" : "193,8",
+		"id_servicio" : "UNO-2040",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 35,
+		"frecuencia" : "193,8",
+		"id_servicio" : "UNO-2166",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 43,
+		"frecuencia" : "194,2",
+		"id_servicio" : "UNO-2037",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 43,
+		"frecuencia" : "194,2",
+		"id_servicio" : "UNO-2038",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 43,
+		"frecuencia" : "194,2",
+		"id_servicio" : "UNO-2039",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 43,
+		"frecuencia" : "194,2",
+		"id_servicio" : "UNO-2040",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 49,
+		"frecuencia" : "194,5",
+		"id_servicio" : "UNO-2755",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 75,
+		"frecuencia" : "195,8",
+		"id_servicio" : "UNO-760",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 75,
+		"frecuencia" : "195,8",
+		"id_servicio" : "UNO-844",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 75,
+		"frecuencia" : "195,8",
+		"id_servicio" : "UNO-845",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 75,
+		"frecuencia" : "195,8",
+		"id_servicio" : "UNO-846",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-6",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-6",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-28",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-34",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-34",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-34",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-35",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-35",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-35",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-36",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-36",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-36",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-137",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-138",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-139",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-140",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-151",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-151",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-152",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-152",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-153",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-153",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-175",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-176",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-177",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-190",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-190",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-190",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-191",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-191",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-191",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-192",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-192",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-192",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-193",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-193",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-193",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-194",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-194",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-194",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-195",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-195",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-195",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-668",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 5,
+		"frecuencia" : "192,3",
+		"id_servicio" : "DOS-88",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 5,
+		"frecuencia" : "192,3",
+		"id_servicio" : "DOS-88",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 5,
+		"frecuencia" : "192,3",
+		"id_servicio" : "DOS-88",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 5,
+		"frecuencia" : "192,3",
+		"id_servicio" : "DOS-235",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 5,
+		"frecuencia" : "192,3",
+		"id_servicio" : "DOS-235",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 5,
+		"frecuencia" : "192,3",
+		"id_servicio" : "DOS-235",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 5,
+		"frecuencia" : "192,3",
+		"id_servicio" : "DOS-236",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 5,
+		"frecuencia" : "192,3",
+		"id_servicio" : "DOS-236",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 5,
+		"frecuencia" : "192,3",
+		"id_servicio" : "DOS-236",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 5,
+		"frecuencia" : "192,3",
+		"id_servicio" : "DOS-237",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 5,
+		"frecuencia" : "192,3",
+		"id_servicio" : "DOS-237",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 5,
+		"frecuencia" : "192,3",
+		"id_servicio" : "DOS-237",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 9,
+		"frecuencia" : "192,5",
+		"id_servicio" : "DOS-242",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 9,
+		"frecuencia" : "192,5",
+		"id_servicio" : "DOS-242",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 9,
+		"frecuencia" : "192,5",
+		"id_servicio" : "DOS-242",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 9,
+		"frecuencia" : "192,5",
+		"id_servicio" : "DOS-243",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 9,
+		"frecuencia" : "192,5",
+		"id_servicio" : "DOS-243",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 9,
+		"frecuencia" : "192,5",
+		"id_servicio" : "DOS-243",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 9,
+		"frecuencia" : "192,5",
+		"id_servicio" : "DOS-266",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 9,
+		"frecuencia" : "192,5",
+		"id_servicio" : "DOS-266",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 9,
+		"frecuencia" : "192,5",
+		"id_servicio" : "DOS-266",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 9,
+		"frecuencia" : "192,5",
+		"id_servicio" : "DOS-614",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 11,
+		"frecuencia" : "192,6",
+		"id_servicio" : "DOS-391",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 11,
+		"frecuencia" : "192,6",
+		"id_servicio" : "DOS-391",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 11,
+		"frecuencia" : "192,6",
+		"id_servicio" : "DOS-392",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 11,
+		"frecuencia" : "192,6",
+		"id_servicio" : "DOS-392",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 11,
+		"frecuencia" : "192,6",
+		"id_servicio" : "DOS-470",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 11,
+		"frecuencia" : "192,6",
+		"id_servicio" : "DOS-470",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 15,
+		"frecuencia" : "192,8",
+		"id_servicio" : "DOS-377",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 15,
+		"frecuencia" : "192,8",
+		"id_servicio" : "DOS-391",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 15,
+		"frecuencia" : "192,8",
+		"id_servicio" : "DOS-392",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 15,
+		"frecuencia" : "192,8",
+		"id_servicio" : "DOS-470",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 15,
+		"frecuencia" : "192,8",
+		"id_servicio" : "DOS-667",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 21,
+		"frecuencia" : "193,1",
+		"id_servicio" : "DOS-387",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 21,
+		"frecuencia" : "193,1",
+		"id_servicio" : "DOS-387",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 21,
+		"frecuencia" : "193,1",
+		"id_servicio" : "DOS-387",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 21,
+		"frecuencia" : "193,1",
+		"id_servicio" : "DOS-387",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 21,
+		"frecuencia" : "193,1",
+		"id_servicio" : "DOS-388",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 21,
+		"frecuencia" : "193,1",
+		"id_servicio" : "DOS-388",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 21,
+		"frecuencia" : "193,1",
+		"id_servicio" : "DOS-388",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 21,
+		"frecuencia" : "193,1",
+		"id_servicio" : "DOS-388",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 21,
+		"frecuencia" : "193,1",
+		"id_servicio" : "DOS-389",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 21,
+		"frecuencia" : "193,1",
+		"id_servicio" : "DOS-389",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 21,
+		"frecuencia" : "193,1",
+		"id_servicio" : "DOS-389",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 21,
+		"frecuencia" : "193,1",
+		"id_servicio" : "DOS-389",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 21,
+		"frecuencia" : "193,1",
+		"id_servicio" : "DOS-390",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 21,
+		"frecuencia" : "193,1",
+		"id_servicio" : "DOS-390",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 21,
+		"frecuencia" : "193,1",
+		"id_servicio" : "DOS-390",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 21,
+		"frecuencia" : "193,1",
+		"id_servicio" : "DOS-390",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 37,
+		"frecuencia" : "193,9",
+		"id_servicio" : "DOS-595",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 37,
+		"frecuencia" : "193,9",
+		"id_servicio" : "DOS-596",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 37,
+		"frecuencia" : "193,9",
+		"id_servicio" : "DOS-597",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 49,
+		"frecuencia" : "194,5",
+		"id_servicio" : "DOS-736",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-1193",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-1194",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 9,
+		"frecuencia" : "192,5",
+		"id_servicio" : "DOS-1466",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 11,
+		"frecuencia" : "192,6",
+		"id_servicio" : "DOS-920",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 15,
+		"frecuencia" : "192,8",
+		"id_servicio" : "DOS-1267",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 17,
+		"frecuencia" : "192,9",
+		"id_servicio" : "DOS-1781",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 19,
+		"frecuencia" : "193",
+		"id_servicio" : "DOS-1791",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 63,
+		"frecuencia" : "195,2",
+		"id_servicio" : "DOS-1212",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 67,
+		"frecuencia" : "195,4",
+		"id_servicio" : "DOS-1784",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 67,
+		"frecuencia" : "195,4",
+		"id_servicio" : "DOS-1894",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 67,
+		"frecuencia" : "195,4",
+		"id_servicio" : "DOS-1895",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 67,
+		"frecuencia" : "195,4",
+		"id_servicio" : "DOS-1896",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 67,
+		"frecuencia" : "195,4",
+		"id_servicio" : "DOS-1897",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 67,
+		"frecuencia" : "195,4",
+		"id_servicio" : "DOS-1898",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 67,
+		"frecuencia" : "195,4",
+		"id_servicio" : "DOS-1899",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 67,
+		"frecuencia" : "195,4",
+		"id_servicio" : "DOS-1900",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 67,
+		"frecuencia" : "195,4",
+		"id_servicio" : "DOS-1901",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 67,
+		"frecuencia" : "195,4",
+		"id_servicio" : "DOS-1902",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 69,
+		"frecuencia" : "195,5",
+		"id_servicio" : "DOS-1762",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 69,
+		"frecuencia" : "195,5",
+		"id_servicio" : "DOS-1762",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 69,
+		"frecuencia" : "195,5",
+		"id_servicio" : "DOS-1762",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 5,
+		"frecuencia" : "192,3",
+		"id_servicio" : "TRES-12",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 5,
+		"frecuencia" : "192,3",
+		"id_servicio" : "TRES-13",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 5,
+		"frecuencia" : "192,3",
+		"id_servicio" : "TRES-13",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 5,
+		"frecuencia" : "192,3",
+		"id_servicio" : "TRES-14",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 5,
+		"frecuencia" : "192,3",
+		"id_servicio" : "TRES-114",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 5,
+		"frecuencia" : "192,3",
+		"id_servicio" : "TRES-115",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 5,
+		"frecuencia" : "192,3",
+		"id_servicio" : "TRES-185",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 5,
+		"frecuencia" : "192,3",
+		"id_servicio" : "TRES-185",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 5,
+		"frecuencia" : "192,3",
+		"id_servicio" : "TRES-185",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 9,
+		"frecuencia" : "192,5",
+		"id_servicio" : "DOS-918/919",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 11,
+		"frecuencia" : "192,6",
+		"id_servicio" : "DOS-2496",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 11,
+		"frecuencia" : "192,6",
+		"id_servicio" : "TRES-11",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 11,
+		"frecuencia" : "192,6",
+		"id_servicio" : "TRES-114",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 11,
+		"frecuencia" : "192,6",
+		"id_servicio" : "TRES-114",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 23,
+		"frecuencia" : "193,2",
+		"id_servicio" : "TRES-15",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 23,
+		"frecuencia" : "193,2",
+		"id_servicio" : "TRES-715",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 29,
+		"frecuencia" : "193,5",
+		"id_servicio" : "TRES-217",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 29,
+		"frecuencia" : "193,5",
+		"id_servicio" : "TRES-217",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 29,
+		"frecuencia" : "193,5",
+		"id_servicio" : "TRES-218",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 29,
+		"frecuencia" : "193,5",
+		"id_servicio" : "TRES-219",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 29,
+		"frecuencia" : "193,5",
+		"id_servicio" : "TRES-219",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 29,
+		"frecuencia" : "193,5",
+		"id_servicio" : "TRES-219",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 29,
+		"frecuencia" : "193,5",
+		"id_servicio" : "TRES-219",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 29,
+		"frecuencia" : "193,5",
+		"id_servicio" : "TRES-219",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 29,
+		"frecuencia" : "193,5",
+		"id_servicio" : "TRES-329",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 29,
+		"frecuencia" : "193,5",
+		"id_servicio" : "TRES-329",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 29,
+		"frecuencia" : "193,5",
+		"id_servicio" : "TRES-337",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 29,
+		"frecuencia" : "193,5",
+		"id_servicio" : "TRES-715",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 29,
+		"frecuencia" : "193,5",
+		"id_servicio" : "TRES-758",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 41,
+		"frecuencia" : "194,1",
+		"id_servicio" : "TRES-763",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 41,
+		"frecuencia" : "194,1",
+		"id_servicio" : "TRES-901",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 53,
+		"frecuencia" : "194,7",
+		"id_servicio" : "TRES-1131",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 71,
+		"frecuencia" : "195,6",
+		"id_servicio" : "DOS-2495",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 5,
+		"frecuencia" : "192,3",
+		"id_servicio" : "TRES-753",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 9,
+		"frecuencia" : "192,5",
+		"id_servicio" : "TRES-753",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 41,
+		"frecuencia" : "194,1",
+		"id_servicio" : "TRES-753",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 43,
+		"frecuencia" : "194,2",
+		"id_servicio" : "TRES-790",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 43,
+		"frecuencia" : "194,2",
+		"id_servicio" : "TRES-789",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 45,
+		"frecuencia" : "194,3",
+		"id_servicio" : "TRES-758",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 45,
+		"frecuencia" : "194,3",
+		"id_servicio" : "TRES-758",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 45,
+		"frecuencia" : "194,3",
+		"id_servicio" : "TRES-768",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 45,
+		"frecuencia" : "194,3",
+		"id_servicio" : "TRES-768",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 45,
+		"frecuencia" : "194,3",
+		"id_servicio" : "TRES-790",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 45,
+		"frecuencia" : "194,3",
+		"id_servicio" : "TRES-790",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 45,
+		"frecuencia" : "194,3",
+		"id_servicio" : "TRES-789",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 45,
+		"frecuencia" : "194,3",
+		"id_servicio" : "TRES-789",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 53,
+		"frecuencia" : "194,7",
+		"id_servicio" : "TRES-758",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 53,
+		"frecuencia" : "194,7",
+		"id_servicio" : "TRES-768",
+		"ruta" : "ORIGEN"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 1,
+		"frecuencia" : "192,1",
+		"id_servicio" : "UNO-39",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 1,
+		"frecuencia" : "192,1",
+		"id_servicio" : "UNO-39",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 1,
+		"frecuencia" : "192,1",
+		"id_servicio" : "UNO-39",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 1,
+		"frecuencia" : "192,1",
+		"id_servicio" : "UNO-368",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 1,
+		"frecuencia" : "192,1",
+		"id_servicio" : "UNO-368",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 1,
+		"frecuencia" : "192,1",
+		"id_servicio" : "UNO-373",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 1,
+		"frecuencia" : "192,1",
+		"id_servicio" : "UNO-1556",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 1,
+		"frecuencia" : "192,1",
+		"id_servicio" : "UNO-1556",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 1,
+		"frecuencia" : "192,1",
+		"id_servicio" : "UNO-1556",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 1,
+		"frecuencia" : "192,1",
+		"id_servicio" : "UNO-2755",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 5,
+		"frecuencia" : "192,3",
+		"id_servicio" : "UNO-39",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 7,
+		"frecuencia" : "192,4",
+		"id_servicio" : "UNO-221",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 7,
+		"frecuencia" : "192,4",
+		"id_servicio" : "UNO-426",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 7,
+		"frecuencia" : "192,4",
+		"id_servicio" : "UNO-1004",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 25,
+		"frecuencia" : "193,3",
+		"id_servicio" : "UNO-1217",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 25,
+		"frecuencia" : "193,3",
+		"id_servicio" : "UNO-1218",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 25,
+		"frecuencia" : "193,3",
+		"id_servicio" : "UNO-1219",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 27,
+		"frecuencia" : "193,4",
+		"id_servicio" : "UNO-538",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 27,
+		"frecuencia" : "193,4",
+		"id_servicio" : "UNO-538",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 27,
+		"frecuencia" : "193,4",
+		"id_servicio" : "UNO-672",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 27,
+		"frecuencia" : "193,4",
+		"id_servicio" : "UNO-672",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 27,
+		"frecuencia" : "193,4",
+		"id_servicio" : "UNO-673",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 27,
+		"frecuencia" : "193,4",
+		"id_servicio" : "UNO-673",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 27,
+		"frecuencia" : "193,4",
+		"id_servicio" : "UNO-1019",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 31,
+		"frecuencia" : "193,6",
+		"id_servicio" : "UNO-758",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 31,
+		"frecuencia" : "193,6",
+		"id_servicio" : "UNO-758",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 31,
+		"frecuencia" : "193,6",
+		"id_servicio" : "UNO-838",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 31,
+		"frecuencia" : "193,6",
+		"id_servicio" : "UNO-838",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 31,
+		"frecuencia" : "193,6",
+		"id_servicio" : "UNO-839",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 31,
+		"frecuencia" : "193,6",
+		"id_servicio" : "UNO-839",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 31,
+		"frecuencia" : "193,6",
+		"id_servicio" : "UNO-840",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 31,
+		"frecuencia" : "193,6",
+		"id_servicio" : "UNO-840",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 33,
+		"frecuencia" : "193,7",
+		"id_servicio" : "UNO-2836",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 35,
+		"frecuencia" : "193,8",
+		"id_servicio" : "UNO-40",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 35,
+		"frecuencia" : "193,8",
+		"id_servicio" : "UNO-185",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 35,
+		"frecuencia" : "193,8",
+		"id_servicio" : "UNO-2037",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 35,
+		"frecuencia" : "193,8",
+		"id_servicio" : "UNO-2038",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 35,
+		"frecuencia" : "193,8",
+		"id_servicio" : "UNO-2039",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 35,
+		"frecuencia" : "193,8",
+		"id_servicio" : "UNO-2040",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 35,
+		"frecuencia" : "193,8",
+		"id_servicio" : "UNO-2166",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 43,
+		"frecuencia" : "194,2",
+		"id_servicio" : "UNO-2037",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 43,
+		"frecuencia" : "194,2",
+		"id_servicio" : "UNO-2038",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 43,
+		"frecuencia" : "194,2",
+		"id_servicio" : "UNO-2039",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 43,
+		"frecuencia" : "194,2",
+		"id_servicio" : "UNO-2040",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 75,
+		"frecuencia" : "195,8",
+		"id_servicio" : "UNO-760",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 75,
+		"frecuencia" : "195,8",
+		"id_servicio" : "UNO-844",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 75,
+		"frecuencia" : "195,8",
+		"id_servicio" : "UNO-845",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 75,
+		"frecuencia" : "195,8",
+		"id_servicio" : "UNO-846",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-6",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-6",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-34",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-35",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-36",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-36",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-151",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-151",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-152",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-152",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-153",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-153",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-190",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-191",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-192",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-193",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-194",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-195",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-668",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 5,
+		"frecuencia" : "192,3",
+		"id_servicio" : "DOS-88",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 5,
+		"frecuencia" : "192,3",
+		"id_servicio" : "DOS-88",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 5,
+		"frecuencia" : "192,3",
+		"id_servicio" : "DOS-88",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 5,
+		"frecuencia" : "192,3",
+		"id_servicio" : "DOS-235",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 5,
+		"frecuencia" : "192,3",
+		"id_servicio" : "DOS-235",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 5,
+		"frecuencia" : "192,3",
+		"id_servicio" : "DOS-235",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 5,
+		"frecuencia" : "192,3",
+		"id_servicio" : "DOS-236",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 5,
+		"frecuencia" : "192,3",
+		"id_servicio" : "DOS-236",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 5,
+		"frecuencia" : "192,3",
+		"id_servicio" : "DOS-236",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 5,
+		"frecuencia" : "192,3",
+		"id_servicio" : "DOS-237",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 5,
+		"frecuencia" : "192,3",
+		"id_servicio" : "DOS-237",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 5,
+		"frecuencia" : "192,3",
+		"id_servicio" : "DOS-237",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 5,
+		"frecuencia" : "192,3",
+		"id_servicio" : "DOS-668",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 9,
+		"frecuencia" : "192,5",
+		"id_servicio" : "DOS-34",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 9,
+		"frecuencia" : "192,5",
+		"id_servicio" : "DOS-35",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 9,
+		"frecuencia" : "192,5",
+		"id_servicio" : "DOS-36",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 9,
+		"frecuencia" : "192,5",
+		"id_servicio" : "DOS-190",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 9,
+		"frecuencia" : "192,5",
+		"id_servicio" : "DOS-191",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 9,
+		"frecuencia" : "192,5",
+		"id_servicio" : "DOS-192",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 9,
+		"frecuencia" : "192,5",
+		"id_servicio" : "DOS-193",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 9,
+		"frecuencia" : "192,5",
+		"id_servicio" : "DOS-194",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 9,
+		"frecuencia" : "192,5",
+		"id_servicio" : "DOS-195",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 9,
+		"frecuencia" : "192,5",
+		"id_servicio" : "DOS-242",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 9,
+		"frecuencia" : "192,5",
+		"id_servicio" : "DOS-242",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 9,
+		"frecuencia" : "192,5",
+		"id_servicio" : "DOS-243",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 9,
+		"frecuencia" : "192,5",
+		"id_servicio" : "DOS-243",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 9,
+		"frecuencia" : "192,5",
+		"id_servicio" : "DOS-266",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 9,
+		"frecuencia" : "192,5",
+		"id_servicio" : "DOS-266",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 9,
+		"frecuencia" : "192,5",
+		"id_servicio" : "DOS-377",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 9,
+		"frecuencia" : "192,5",
+		"id_servicio" : "DOS-391",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 9,
+		"frecuencia" : "192,5",
+		"id_servicio" : "DOS-392",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 9,
+		"frecuencia" : "192,5",
+		"id_servicio" : "DOS-470",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 15,
+		"frecuencia" : "192,8",
+		"id_servicio" : "DOS-242",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 15,
+		"frecuencia" : "192,8",
+		"id_servicio" : "DOS-243",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 15,
+		"frecuencia" : "192,8",
+		"id_servicio" : "DOS-266",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 15,
+		"frecuencia" : "192,8",
+		"id_servicio" : "DOS-391",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 15,
+		"frecuencia" : "192,8",
+		"id_servicio" : "DOS-391",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 15,
+		"frecuencia" : "192,8",
+		"id_servicio" : "DOS-392",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 15,
+		"frecuencia" : "192,8",
+		"id_servicio" : "DOS-392",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 15,
+		"frecuencia" : "192,8",
+		"id_servicio" : "DOS-470",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 15,
+		"frecuencia" : "192,8",
+		"id_servicio" : "DOS-470",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 15,
+		"frecuencia" : "192,8",
+		"id_servicio" : "DOS-667",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 21,
+		"frecuencia" : "193,1",
+		"id_servicio" : "DOS-387",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 21,
+		"frecuencia" : "193,1",
+		"id_servicio" : "DOS-387",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 21,
+		"frecuencia" : "193,1",
+		"id_servicio" : "DOS-387",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 21,
+		"frecuencia" : "193,1",
+		"id_servicio" : "DOS-387",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 21,
+		"frecuencia" : "193,1",
+		"id_servicio" : "DOS-388",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 21,
+		"frecuencia" : "193,1",
+		"id_servicio" : "DOS-388",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 21,
+		"frecuencia" : "193,1",
+		"id_servicio" : "DOS-388",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 21,
+		"frecuencia" : "193,1",
+		"id_servicio" : "DOS-388",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 21,
+		"frecuencia" : "193,1",
+		"id_servicio" : "DOS-389",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 21,
+		"frecuencia" : "193,1",
+		"id_servicio" : "DOS-389",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 21,
+		"frecuencia" : "193,1",
+		"id_servicio" : "DOS-389",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 21,
+		"frecuencia" : "193,1",
+		"id_servicio" : "DOS-389",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 21,
+		"frecuencia" : "193,1",
+		"id_servicio" : "DOS-390",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 21,
+		"frecuencia" : "193,1",
+		"id_servicio" : "DOS-390",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 21,
+		"frecuencia" : "193,1",
+		"id_servicio" : "DOS-390",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 21,
+		"frecuencia" : "193,1",
+		"id_servicio" : "DOS-390",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 37,
+		"frecuencia" : "193,9",
+		"id_servicio" : "DOS-595",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 37,
+		"frecuencia" : "193,9",
+		"id_servicio" : "DOS-596",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 37,
+		"frecuencia" : "193,9",
+		"id_servicio" : "DOS-597",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 37,
+		"frecuencia" : "193,9",
+		"id_servicio" : "DOS-736",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 49,
+		"frecuencia" : "194,5",
+		"id_servicio" : "DOS-614",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 71,
+		"frecuencia" : "195,6",
+		"id_servicio" : "DOS-920",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "DOS-1193",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 5,
+		"frecuencia" : "192,3",
+		"id_servicio" : "DOS-1194",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 9,
+		"frecuencia" : "192,5",
+		"id_servicio" : "DOS-1268",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 9,
+		"frecuencia" : "192,5",
+		"id_servicio" : "DOS-1466",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 17,
+		"frecuencia" : "192,9",
+		"id_servicio" : "DOS-1781",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 19,
+		"frecuencia" : "193",
+		"id_servicio" : "DOS-1791",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 23,
+		"frecuencia" : "193,2",
+		"id_servicio" : "DOS-1466",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 63,
+		"frecuencia" : "195,2",
+		"id_servicio" : "DOS-1212",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 69,
+		"frecuencia" : "195,5",
+		"id_servicio" : "DOS-1762",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 69,
+		"frecuencia" : "195,5",
+		"id_servicio" : "DOS-1762",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 69,
+		"frecuencia" : "195,5",
+		"id_servicio" : "DOS-1762",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 5,
+		"frecuencia" : "192,3",
+		"id_servicio" : "TRES-10",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 5,
+		"frecuencia" : "192,3",
+		"id_servicio" : "TRES-12",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 5,
+		"frecuencia" : "192,3",
+		"id_servicio" : "TRES-114",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 5,
+		"frecuencia" : "192,3",
+		"id_servicio" : "TRES-115",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 5,
+		"frecuencia" : "192,3",
+		"id_servicio" : "TRES-185",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 5,
+		"frecuencia" : "192,3",
+		"id_servicio" : "TRES-185",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 11,
+		"frecuencia" : "192,6",
+		"id_servicio" : "TRES-114",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 11,
+		"frecuencia" : "192,6",
+		"id_servicio" : "TRES-114",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 23,
+		"frecuencia" : "193,2",
+		"id_servicio" : "TRES-219",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 23,
+		"frecuencia" : "193,2",
+		"id_servicio" : "TRES-219",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 23,
+		"frecuencia" : "193,2",
+		"id_servicio" : "TRES-219",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 23,
+		"frecuencia" : "193,2",
+		"id_servicio" : "TRES-329",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 29,
+		"frecuencia" : "193,5",
+		"id_servicio" : "TRES-329",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 29,
+		"frecuencia" : "193,5",
+		"id_servicio" : "TRES-337",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 29,
+		"frecuencia" : "193,5",
+		"id_servicio" : "TRES-715",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 29,
+		"frecuencia" : "193,5",
+		"id_servicio" : "TRES-715",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 29,
+		"frecuencia" : "193,5",
+		"id_servicio" : "TRES-758",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 29,
+		"frecuencia" : "193,5",
+		"id_servicio" : "TRES-1131",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 43,
+		"frecuencia" : "194,2",
+		"id_servicio" : "TRES-763",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 43,
+		"frecuencia" : "194,2",
+		"id_servicio" : "TRES-901",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 49,
+		"frecuencia" : "194,5",
+		"id_servicio" : "DOS-918/919",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 71,
+		"frecuencia" : "195,6",
+		"id_servicio" : "DOS-2495",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 71,
+		"frecuencia" : "195,6",
+		"id_servicio" : "DOS-2496",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 3,
+		"frecuencia" : "192,2",
+		"id_servicio" : "TRES-753",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 5,
+		"frecuencia" : "192,3",
+		"id_servicio" : "TRES-753",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 9,
+		"frecuencia" : "192,5",
+		"id_servicio" : "TRES-753",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 45,
+		"frecuencia" : "194,3",
+		"id_servicio" : "TRES-758",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 45,
+		"frecuencia" : "194,3",
+		"id_servicio" : "TRES-758",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 45,
+		"frecuencia" : "194,3",
+		"id_servicio" : "TRES-758",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 45,
+		"frecuencia" : "194,3",
+		"id_servicio" : "TRES-768",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 45,
+		"frecuencia" : "194,3",
+		"id_servicio" : "TRES-768",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 45,
+		"frecuencia" : "194,3",
+		"id_servicio" : "TRES-768",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 45,
+		"frecuencia" : "194,3",
+		"id_servicio" : "TRES-790",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 45,
+		"frecuencia" : "194,3",
+		"id_servicio" : "TRES-790",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 45,
+		"frecuencia" : "194,3",
+		"id_servicio" : "TRES-790",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 18,
+		"sitio" : "Moctezuma",
+		"id_frecuencia" : 45,
+		"frecuencia" : "194,3",
+		"id_servicio" : "TRES-789",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 81,
+		"sitio" : "Nuevo Casas Grandes",
+		"id_frecuencia" : 45,
+		"frecuencia" : "194,3",
+		"id_servicio" : "TRES-789",
+		"ruta" : "DESTINO"
+	},
+	{
+		"id_sitio" : 78,
+		"sitio" : "Nacozari",
+		"id_frecuencia" : 45,
+		"frecuencia" : "194,3",
+		"id_servicio" : "TRES-789",
+		"ruta" : "DESTINO"
+	}
+]
